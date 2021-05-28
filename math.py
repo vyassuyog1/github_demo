@@ -10,3 +10,7 @@ def multiply(x,y):
 #divi  
 def divide(x,y): 
   pass:
+  
+ #square
+ def sq(x,y):
+    pass:
