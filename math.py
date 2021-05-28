@@ -10,3 +10,6 @@ def multiply(x,y):
 #divi  
 def divide(x,y): 
   pass:
+
+def cube(x):
+    return(x*x*x):
